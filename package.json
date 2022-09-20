@@ -1,0 +1,16 @@
+{
+  "name": "node_demo",
+  "version": "1.0.0",
+  "description": "server.js",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
